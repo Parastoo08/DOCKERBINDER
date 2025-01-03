@@ -8,7 +8,7 @@ dependencies:
   - jupyter
   - numpy
   - jupyter_contrib_nbextensions
-  - pyqt=5
+  - pyqt=5s
   - vtk=9.2
   - pip:
-     - -r requirementsMM2.txt
+     - -r requirements.txt
